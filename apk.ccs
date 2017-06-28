@@ -1,0 +1,33 @@
+<Solution>
+  <PropertyGroup Name="apk" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <PlistImageFolder Image="map.png" PListFile="map.plist" Name=".map_PList.Dir">
+          <PlistImageFile Name="alert_bg.png" Key="alert_bg.png" />
+          <PlistImageFile Name="blue_ball1.png" Key="blue_ball1.png" />
+          <PlistImageFile Name="blue_ball2.png" Key="blue_ball2.png" />
+          <PlistImageFile Name="blue1.png" Key="blue1.png" />
+          <PlistImageFile Name="blue2.png" Key="blue2.png" />
+          <PlistImageFile Name="border.png" Key="border.png" />
+          <PlistImageFile Name="button1.png" Key="button1.png" />
+          <PlistImageFile Name="button2.png" Key="button2.png" />
+          <PlistImageFile Name="C__Program Files (x86)_Cocos Studio_EditorDefaultRes_GUI_image.png" Key="C:/Program Files (x86)/Cocos Studio/EditorDefaultRes/GUI/image.png" />
+          <PlistImageFile Name="close1.png" Key="close1.png" />
+          <PlistImageFile Name="close2.png" Key="close2.png" />
+          <PlistImageFile Name="map.png" Key="map.png" />
+          <PlistImageFile Name="orange1.png" Key="orange1.png" />
+          <PlistImageFile Name="orange2.png" Key="orange2.png" />
+          <PlistImageFile Name="purple_ball1.png" Key="purple_ball1.png" />
+          <PlistImageFile Name="purple_ball2.png" Key="purple_ball2.png" />
+        </PlistImageFolder>
+        <Image Name="BlueButton.png" />
+        <Image Name="Cursor.png" />
+        <Image Name="GreenButton.png" />
+        <Project Name="map.csd" Type="Scene" />
+        <Project Name="map1.csd" Type="Scene" />
+        <Image Name="PinkButton.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
